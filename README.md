@@ -22,10 +22,10 @@ The token ca be generated from https://github.com/settings/tokens.
 
 ### Docker
 
-You can also use Docker and Compose !
+You can also use Docker.
 
 ```
- Build Docker image
+# Build Docker image
 docker build -t backup-butter
 
 # Create backup folder
